@@ -38,14 +38,23 @@ CREATE TABLE `sample` (
 --
 
 INSERT INTO `sample` (`id`, `name`) VALUES
-(1, 'Mercury'),
-(2, 'Venus'),
-(3, 'Earth'),
-(4, 'Mars'),
-(5, 'Jupiter'),
-(6, 'Saturn'),
-(7, 'Uranus'),
-(8, 'Neptune');
+(1, 'Hello'),
+(2, 'This'),
+(3, 'data'),
+(4, 'set'),
+(5, 'is'),
+(6, 'coming'),
+(7, 'from'),
+(8, 'MySQL'),
+(9, 'database'),
+(10, 'which'),
+(11, 'is'),
+(12, 'hosted'),
+(13, 'inside'),
+(14, 'the'),
+(15, 'same'),
+(16, 'docker'),
+(17, 'container');
 
 --
 -- Indexes for dumped tables
