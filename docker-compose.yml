@@ -5,6 +5,7 @@ x-common-variables: &common-variables
   MYSQL_PASSWORD: samplepassword
   MYSQL_DATABASE: sampledb
   REACT_APP_SERVER_PORT: 8000
+  REACT_APP_URL: http://travel.booklified.com
 
 services:
   mysql-db:

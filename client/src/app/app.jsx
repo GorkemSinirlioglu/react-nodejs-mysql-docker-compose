@@ -1,10 +1,8 @@
-import React from 'react';
-import { SampleComponent } from 'components';
+import React from "react";
+import { SampleComponent } from "../components";
 
 function App() {
-  return (
-    <SampleComponent />
-  );
+  return <SampleComponent />;
 }
 
 export default App;
